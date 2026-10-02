@@ -1,1 +1,1 @@
-console.log(julechka)
+console.log('julechka')
